@@ -24,7 +24,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.button{
+  margin-left: 670px;
+}
 .header {
   position: fixed;
   top: 0;
